@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chuck-norris-jokes-website/static/css/main.ff5b86f9.chunk.css",
+    "main.js": "/chuck-norris-jokes-website/static/js/main.67210c1f.chunk.js",
+    "main.js.map": "/chuck-norris-jokes-website/static/js/main.67210c1f.chunk.js.map",
+    "runtime-main.js": "/chuck-norris-jokes-website/static/js/runtime-main.6fe8b073.js",
+    "runtime-main.js.map": "/chuck-norris-jokes-website/static/js/runtime-main.6fe8b073.js.map",
+    "static/js/2.4b4503cf.chunk.js": "/chuck-norris-jokes-website/static/js/2.4b4503cf.chunk.js",
+    "static/js/2.4b4503cf.chunk.js.map": "/chuck-norris-jokes-website/static/js/2.4b4503cf.chunk.js.map",
+    "index.html": "/chuck-norris-jokes-website/index.html",
+    "precache-manifest.6a14850785f7842c9053a4b5d094524a.js": "/chuck-norris-jokes-website/precache-manifest.6a14850785f7842c9053a4b5d094524a.js",
+    "service-worker.js": "/chuck-norris-jokes-website/service-worker.js",
+    "static/css/main.ff5b86f9.chunk.css.map": "/chuck-norris-jokes-website/static/css/main.ff5b86f9.chunk.css.map",
+    "static/js/2.4b4503cf.chunk.js.LICENSE.txt": "/chuck-norris-jokes-website/static/js/2.4b4503cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fe8b073.js",
+    "static/js/2.4b4503cf.chunk.js",
+    "static/css/main.ff5b86f9.chunk.css",
+    "static/js/main.67210c1f.chunk.js"
+  ]
+}
